@@ -59,6 +59,6 @@ Acesse a aplicação em funcionamento:
 
 ## 👥 Equipe / Autores
 
-* [Seu Nome / Nome do Grupo] - *Desenvolvimento Inicial*
+* [Hellen / Grupo Grafh Gabriel hipolito, Andrey Silvae Felipe Valadão] - *Desenvolvimento Inicial*
 
 
