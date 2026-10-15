@@ -59,6 +59,6 @@ Acesse a aplicação em funcionamento:
 
 ## 👥 Equipe / Autores
 
-* [Hellen / Grupo Grafh Gabriel hipolito, Andrey Silvae Felipe Valadão] - *Desenvolvimento Inicial*
+* [Hellen / Grupo Grafh Integrantes:  Andrey Silva, Felipe Valadão, Gabriel Hipolito e Hellen- *Desenvolvimento Inicial*
 
 
