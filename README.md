@@ -13,8 +13,7 @@ Esse processo está sujeito a falhas no registro, na conferência e na atualiza�
 Diante desse cenário, torna-se necessária a implementação de um sistema informatizado para auxiliar no gerenciamento do estoque, proporcionando maior controle, organização e confiabilidade das informações, além de contribuir para a redução de falhas decorrentes do processo manual.
  problema mais impactante é a gestão do estoque (atualmente o controle de estoque dos produtos é feito de forma manual).  O que acaba acontecendo falhas na hora de verificar o estoque. real que motiva o sistema, com os fatos observados e as consequências para a instituição.
 
-     5 Público-alvo
-        5.1 Perfis de usuários
+
   5 Público-alvo
         5.1 Perfis de usuários 
         O sistema terá como principal perfil de usuário a proprietária do estabelecimento, responsável pelo acompanhamento e gerenciamento das informações relacionadas ao estoque. O público-alvo do sistema será composto principalmente pelos colaboradores responsáveis pela reposição e organização dos produtos em estoque.
