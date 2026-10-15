@@ -1,29 +1,64 @@
 # Nina Bolos
 
-RESUMO
-A organização parceira escolhida pelo grupo foi Nina Bolos Caseiros, atuante no setor de alimentação. A partir da imersão nesse ambiente, identificou-se o seguinte problema central: O problema mais impactante é a gestão do estoque (atualmente o controle de estoque dos produtos é realizado de forma manual), gerando falhas na hora de verificar o estoque.
-Palavras-chave: Controle de estoque; alimentação; automação; sistema
-        
-                
- 
-    
- 4.1 PROBLEMA IDENTIFICADO
- O principal problema identificado está relacionado à gestão e ao controle de estoque da instituição. Atualmente, o acompanhamento dos produtos é realizado de forma manual, o que dificulta a obtenção de informações precisas e atualizadas sobre a quantidade disponível em estoque.
-Esse processo está sujeito a falhas no registro, na conferência e na atualização das informações, podendo ocasionar divergências entre o estoque físico e os registros existentes. Como consequência, podem ocorrer dificuldades na identificação da disponibilidade dos produtos, atrasos na reposição de itens, aquisição desnecessária de materiais e indisponibilidade de produtos quando necessários.
-Diante desse cenário, torna-se necessária a implementação de um sistema informatizado para auxiliar no gerenciamento do estoque, proporcionando maior controle, organização e confiabilidade das informações, além de contribuir para a redução de falhas decorrentes do processo manual.
- problema mais impactante é a gestão do estoque (atualmente o controle de estoque dos produtos é feito de forma manual).  O que acaba acontecendo falhas na hora de verificar o estoque. real que motiva o sistema, com os fatos observados e as consequências para a instituição.
+# 🍰 Nina Bolos Caseiros - Sistema de Gestão de Estoque
 
+> Projeto desenvolvido para otimizar e automatizar o controle de estoque da **Nina Bolos Caseiros**, solucionando gargalos operacionais gerados pelo gerenciamento manual.
 
-  5 PUBLICO ALVO
-        5.1 Perfis de usuários 
-        O sistema terá como principal perfil de usuário a proprietária do estabelecimento, responsável pelo acompanhamento e gerenciamento das informações relacionadas ao estoque. O público-alvo do sistema será composto principalmente pelos colaboradores responsáveis pela reposição e organização dos produtos em estoque.
-Considerando que os usuários poderão apresentar diferentes níveis de familiaridade com recursos tecnológicos, o sistema será desenvolvido com foco na facilidade de uso, acessibilidade e familiaridade da interface. Dessa forma, busca-se proporcionar uma experiência intuitiva, permitindo que usuários com pouca experiência em sistemas informatizados possam utilizá-lo de maneira simples e eficiente.
-O sistema será disponibilizado em ambiente web, possibilitando seu acesso por meio de computadores, além de contar com uma versão adaptada para dispositivos móveis, como smartphones e tablets. Essa abordagem visa proporcionar maior flexibilidade e praticidade aos usuários durante as atividades de gerenciamento e reposição do estoque.
-
-LINGUAGENS E FERRAMENTAS
-HTML, CSS E JS
-
-LINK DO SITE
 ---
+
+## 📋 Resumo do Projeto
+
+A organização parceira escolhida para este projeto foi a **Nina Bolos Caseiros**, atuante no setor de alimentação. A partir de uma imersão profunda nesse ambiente, identificou-se o principal desafio operacional da empresa: **a ineficiência na gestão e no controle de estoque**, atualmente realizado de forma totalmente manual.
+
+* **Palavras-chave:** Controle de estoque; Alimentação; Automação; Sistema Web.
+
+---
+
+## ⚠️ O Problema Identificado
+
+O acompanhamento manual dos produtos dificulta a obtenção de informações precisas e em tempo real sobre a quantidade disponível. Esse processo está sujeito a falhas frequentes de registro, conferência e atualização, o que acarreta consequências graves para o negócio:
+
+* **Divergências** entre o estoque físico e os registros.
+* **Atrasos** na reposição de itens e matérias-primas.
+* **Aquisição desnecessária** de materiais.
+* **Indisponibilidade** de produtos essenciais quando solicitados.
+
+> **A Solução:** Implementação de um sistema informatizado para proporcionar maior controle, organização, confiabilidade das informações e redução drástica de falhas operacionais.
+
+---
+
+## 🎯 Público-Alvo e Usuários
+
+O sistema foi desenhado para atender diferentes perfis dentro do estabelecimento, garantindo uma curva de aprendizado rápida:
+
+* **Proprietária:** Responsável pelo acompanhamento geral, relatórios e gerenciamento estratégico do estoque.
+* **Colaboradores:** Encarregados pela reposição, conferência e organização diária dos produtos.
+
+### 📱 Acessibilidade e Tecnologias
+* **Foco na Usabilidade:** Interface intuitiva e amigável, ideal para usuários com diferentes níveis de familiaridade com a tecnologia.
+* **Plataforma Web:** Acessível via computadores, smartphones e tablets, garantindo flexibilidade na rotina da loja.
+
+---
+
+## 🛠️ Linguagens e Ferramentas
+
+O projeto foi desenvolvido utilizando as seguintes tecnologias:
+
+* ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+* ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+* ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+---
+
+## 🔗 Link do Projeto
+
+Acesse a aplicação em funcionamento:
+👉 [**Visualizar o Site**](INSERIR_LINK_AQUI)
+
+---
+
+## 👥 Equipe / Autores
+
+* [Seu Nome / Nome do Grupo] - *Desenvolvimento Inicial*
 
 
