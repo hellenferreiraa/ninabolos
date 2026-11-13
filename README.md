@@ -10,6 +10,7 @@
 
 A organização parceira escolhida para este projeto foi a **Nina Bolos Caseiros**, atuante no setor de alimentação. A partir de uma imersão profunda nesse ambiente, identificou-se o principal desafio operacional da empresa: **a ineficiência na gestão e no controle de estoque**, atualmente realizado de forma totalmente manual.
 
+
 * **Palavras-chave:** Controle de estoque; Alimentação; Automação; Sistema Web.
 
 ---
@@ -60,5 +61,7 @@ Acesse a aplicação em funcionamento:
 ## 👥 Equipe / Autores
 
 * [Hellen / Grupo Grafh Integrantes:  Andrey Silva, Felipe Valadão, Gabriel Hipolito e Hellen- *Desenvolvimento Inicial*
+<img width="1332" height="905" alt="image" src="https://github.com/user-attachments/assets/08311248-ff16-4202-b3f0-2d55d065f30e" />
+
 
 
